@@ -30,3 +30,7 @@ The school board notified Maria and her supervisor that the initial analysis don
    ***Image from PyCitySchool_Challenge.ipynb***
    
    ![image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/School_Summary_PostTHS.png)
+   
+3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+   
+   
