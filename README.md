@@ -56,6 +56,8 @@ The school board notified Maria and her supervisor that the initial analysis don
 
        There is no change in the data for scores by school size. Please refer the below image for comparison:
        
+       ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_schoolsize_Comparison.png)
+       
        
 Scores by school type
    
