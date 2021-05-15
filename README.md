@@ -71,7 +71,16 @@ The school board notified Maria and her supervisor that the initial analysis don
      
      
 ## Summary
-There were 4 changes made to the original dataset in order to investigate the school results by eliminating the suspicious data in the original dataset. The four changes are    listed below :-
- - 
+There were changes made to the original dataset in order to investigate the school results by eliminating the suspicious data in the original dataset. The four changes are    listed below :-
+
+  - The 9th Grade math scores were replaced with "Nan" for Thomas High School.
+  - The 9th Grade reading scores were replaced with "Nan" for Thomas High School.
+  - New calculations were performed for math and reading on the dataset excluding 9th grade math and reading results for Thomas High School.
+  - A new overall passing % was arrived at after adding the updated datasets for the two subjects to the original dataframe.
+
+## Conclusion
+The changes made did not have a significant impact on any of the summaries which can render the decision of the authorities to go either way.
+
+  - 
 
    
