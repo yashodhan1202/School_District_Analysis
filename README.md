@@ -68,4 +68,10 @@ The school board notified Maria and her supervisor that the initial analysis don
        There is no change in the data for scores by school size. Please refer the below image for comparison:
       
        ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_schooltype_Comparison.png)
+     
+     
+## Summary
+There were 4 changes made to the original dataset in order to investigate the school results by eliminating the suspicious data in the original dataset. The four changes are    listed below :-
+ - 
+
    
