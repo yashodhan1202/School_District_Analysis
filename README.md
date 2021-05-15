@@ -38,6 +38,11 @@ The school board notified Maria and her supervisor that the initial analysis don
 4. **How does replacing the ninth-grade scores affect the following:**
      
      - ***Math and reading scores by grade***
+     
+     ![image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Maths_Score%20Comparison.png)
+     
+     ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Reading_Score%20Comparison.png)
+     
         
         
       
