@@ -52,7 +52,11 @@ The school board notified Maria and her supervisor that the initial analysis don
        
        ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_spending_Comparison.png)
              
-Scores by school size
+     - ***Scores by school size***
+
+       There is no change in the data for scores by school size. Please refer the below image for comparison:
+       
+       
 Scores by school type
    
    
