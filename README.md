@@ -79,7 +79,7 @@ There were changes made to the original dataset in order to investigate the scho
   - A new overall passing % was arrived at after adding the updated datasets for the two subjects to the original dataframe.
 
 ## Conclusion
-The changes made did not have a significant impact on any of the summaries which can render the decision of the authorities to go either way.
+The changes made did not have a significant impact on any of the summaries which can render the decision of the authorities to sway either way.
 
 
 
