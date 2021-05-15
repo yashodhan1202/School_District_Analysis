@@ -35,4 +35,14 @@ The school board notified Maria and her supervisor that the initial analysis don
 
    Overall it does not affect either the reading scores or math scores relative to other schools.
    
+4. **How does replacing the ninth-grade scores affect the following:**
+     
+     - ***Math and reading scores by grade***
+        
+        
+      
+Scores by school spending
+Scores by school size
+Scores by school type
+   
    
