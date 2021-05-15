@@ -18,3 +18,15 @@ The school board notified Maria and her supervisor that the initial analysis don
    ![District_Summary_post_THS_slicendice](https://github.com/yashodhan1202/School_District_Analysis/blob/main/District_Summary_post_THS_slicendice.png)
    
    These changes are not that significant to affect any decision.
+
+2. How is the school summary affected?
+
+   There is no change in the school summary at all once the cells have been formatted. Please refer the two images below for comparison.
+   
+   **Image from PyCitySchool.ipynb**
+   
+   ![image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/School_Summary_PreTHS.png)
+   
+   **Image from PyCitySchool_Challenge.ipynb**
+   
+   ![image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/School_Summary_PostTHS.png)
