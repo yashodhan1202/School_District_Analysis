@@ -38,15 +38,20 @@ The school board notified Maria and her supervisor that the initial analysis don
 4. **How does replacing the ninth-grade scores affect the following:**
      
      - ***Math and reading scores by grade***
+         
+      Overall there is no change in the dataframe, except where the 9th Grade column shows "Nan" for Thomas High School as show in the below images.
      
      ![image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Maths_Score%20Comparison.png)
      
      ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Reading_Score%20Comparison.png)
      
-        
-        
-      
-Scores by school spending
+     
+     - ***Scores by school spending***
+       
+       There is no change in the data for scores by school spending as the changes have an immaterial impact on the overall dataset. Please refer the image below for comparison:
+       
+       ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_spending_Comparison.png)
+             
 Scores by school size
 Scores by school type
    
