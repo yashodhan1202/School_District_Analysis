@@ -46,19 +46,26 @@ The school board notified Maria and her supervisor that the initial analysis don
      ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Reading_Score%20Comparison.png)
      
      
+     
      - ***Scores by school spending***
        
        There is no change in the data for scores by school spending as the changes have an immaterial impact on the overall dataset. Please refer the image below for comparison:
        
        ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_spending_Comparison.png)
              
-     - ***Scores by school size***
+    
+    
+    - ***Scores by school size***
 
        There is no change in the data for scores by school size. Please refer the below image for comparison:
        
        ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_schoolsize_Comparison.png)
        
        
-Scores by school type
-   
+     
+     - ***Scores by school type***
+     
+       There is no change in the data for scores by school size. Please refer the below image for comparison:
+      
+       ![Image](https://github.com/yashodhan1202/School_District_Analysis/blob/main/Score_by_schooltype_Comparison.png)
    
