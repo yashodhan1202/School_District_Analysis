@@ -5,7 +5,7 @@ The school board notified Maria and her supervisor that the initial analysis don
 
 ## Results
 
-1. How is the district summary affected?
+1. **How is the district summary affected?**
 
    There has been a slight change in Average Math Score, % Passing Math, % Passing Reading and % Overall Passing as its evident from the below images :-
    
@@ -19,7 +19,7 @@ The school board notified Maria and her supervisor that the initial analysis don
    
    These changes are not that significant to affect any decision.
 
-2. How is the school summary affected?
+2. **How is the school summary affected?**
 
    There is no change in the school summary at all once the cells have been formatted. Please refer the two images below for comparison.
    
