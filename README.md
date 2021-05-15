@@ -6,4 +6,15 @@ The school board notified Maria and her supervisor that the initial analysis don
 ## Results
 
 1. How is the district summary affected?
+
+   There has been a slight change in Average Math Score, % Passing Math, % Passing Reading and % Overall Passing as its evident from the below images :-
    
+   **Image from PyCitySchool.ipynb**
+   
+   ![image](https://user-images.githubusercontent.com/80116407/118366194-b5bc2080-b56d-11eb-951a-3120a7bee23b.png)
+
+   **Image from PyCitySchool_Challenge.ipynb**
+   
+   ![District_Summary_post_THS_slicendice](https://github.com/yashodhan1202/School_District_Analysis/blob/main/District_Summary_post_THS_slicendice.png)
+   
+   These changes are not that significant to affect any decision.
